@@ -1,0 +1,16 @@
+{
+	"solution": {
+		"name" : "vendor-catch2",
+		"type" : "xyo-cpp",
+		"projects": [
+			{
+				"name" : "catch2",
+				"SPDX-License-Identifier": "BSL-1.0",
+				"sourceLink" : "https://github.com/catchorg/Catch2",
+				"version" : "3.5.4",
+				"noVersion" : true
+			}
+		],
+		"releaseName" : "catch2"
+	}
+}
